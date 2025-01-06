@@ -2,129 +2,144 @@
 
 ![](./img/logo.png)
 
-In this repo, we aim to provide a comprehensive overview of the latest awesome works that leverage LLMs as research assistant. We also include platforms,tutorials, and workshops to help you get started with your relevant projects.
-
+In this repo, we aim to provide a comprehensive overview of the latest awesome works that leverage LLMs as research assistants. We also include platforms, tutorials, and workshops to help you get started with your relevant projects.
 
 ![Awesome](https://img.shields.io/badge/Awesome-LLMs%20in%20Research%20Assistant-blue) 
 
 
 ## Contents
 
-* [1. Tasks](#-research-topics)
-    * [1.1 Literature Review and Summarization](#literature-review-and-summarization)   
-    * [1.2 Scientific Question Answering](#question-answering)   
-    * [1.3 Data Analysis and Visualization](#data-analysis-and-visualization)  
-    * [1.4 Writing Assistance](#writing-assistance)   
-    * [1.5 Workflow Automation](#workflow-automation) 
-    * [1.6 Peer-Review](#peer-review)
-    * [1.7 Representation Learning](#representation-learning)
-* [2. Techniques](#️-techniques)
-    * [2.1 Prompt Engineering](#prompt-engineering)   
-    * [2.2 Fine-Tuning](#fine-tuning)   
-    * [2.3 Zero-Shot and Few-Shot Learning](#zero-shot-and-few-shot-learning)  
-    * [2.4 Single Agent](#single-agent)   
-    * [2.5 Multi-Agent](#multi-agent)  
-* [3. Dataset](#-dataset)  
-* [4. Evaluation](#-evaluation)  
-* [5. Platforms](#-platforms)  
-    * [5.1 Personalized Recommendation](#personalized-recommendation)  
-    * [5.2 PaperChat](#paperchat)    
-    * [5.3 Writing Assistant](#writing-assistant)   
-    * [5.4 Integrated](#scholargpt)
-* [6. Workshops and Tutorials](#workshops-and-tutorials)  
+1. [Tasks](#1-tasks)
+   - [Literature Review and Summarization](#11-literature-review-and-summarization)   
+   - [Scientific Question Answering](#12-scientific-question-answering)   
+   - [Data Analysis and Visualization](#13-data-analysis-and-visualization)  
+   - [Writing Assistance](#14-writing-assistance)   
+   - [Workflow Automation](#15-workflow-automation) 
+   - [Peer-Review](#16-peer-review)
+   - [Representation Learning](#17-representation-learning)
+2. [Techniques](#2-techniques)
+   - [Prompt Engineering](#21-prompt-engineering)   
+   - [Fine-Tuning](#22-fine-tuning)   
+   - [Zero-Shot and Few-Shot Learning](#23-zero-shot-and-few-shot-learning)  
+   - [Single Agent](#24-single-agent)   
+   - [Multi-Agent](#25-multi-agent)  
+3. [Dataset](#3-dataset)  
+4. [Evaluation](#4-evaluation)  
+5. [Platforms](#5-platforms)  
+   - [Personalized Recommendation](#51-personalized-recommendation)  
+   - [PaperChat](#52-paperchat)    
+   - [Writing Assistant](#53-writing-assistant)   
+   - [ScholarGPT](#54-scholargpt)
+6. [Workshops and Tutorials](#6-workshops-and-tutorials)  
+
 ---
 
 ## 1. Tasks
 
-> Literature Review and Summarization
+### 1.1 Literature Review and Summarization
+- Automatically summarize academic papers.
+- Generate concise literature reviews for specific research domains.
 
-> Question Answering
+### 1.2 Scientific Question Answering
+- Use LLMs for precise and context-aware question answering.
+- Applications in FAQ generation and academic support.
 
-> Data Analysis and Visualization
+### 1.3 Data Analysis and Visualization
+- Leverage LLMs to interpret and visualize complex datasets.
+- Automate the creation of charts and graphs for presentations.
 
-> Writing Assistance
+### 1.4 Writing Assistance
+- Help researchers write papers, proposals, and technical documents.
+- Suggestions for grammar, style, and structure improvement.
 
+### 1.5 Workflow Automation
+- Automate repetitive research tasks such as data preprocessing.
+- Enable seamless integration of multiple research tools.
 
-> Workflow Automation
+### 1.6 Peer-Review
+- Provide insights for peer-reviewing academic papers.
+- Suggest improvements and detect errors in submissions.
 
-
-> Peer-Review
-
-> Representation Learning
+### 1.7 Representation Learning
+- Facilitate learning of data representations for downstream tasks.
+- Applications in embedding-based search and clustering.
 
 <div align="right">
-    <b><a href="#Contents">👉 back to top</a></b>
+    <b><a href="#contents">👉 back to top</a></b>
 </div>
 
 ## 2. Techniques
 
-> Prompt Engineering
+### 2.1 Prompt Engineering
+- Design effective prompts to improve LLM performance.
+- Case studies of prompt optimization strategies.
 
+### 2.2 Fine-Tuning
+- Fine-tune models for domain-specific tasks.
+- Examples include scientific writing and mathematical problem solving.
 
-> Fine-Tuning
+### 2.3 Zero-Shot and Few-Shot Learning
+- Explore applications where minimal labeled data is required.
+- Case studies in cross-lingual and low-resource scenarios.
 
+### 2.4 Single Agent
+- Utilize a single LLM agent for specific research tasks.
+- Examples include single-task optimization and focused outputs.
 
-
-> Zero-Shot and Few-Shot Learning
-
-
-> Single Agent
-
-
-> Multi-Agent
+### 2.5 Multi-Agent
+- Coordinate multiple LLM agents to solve complex problems.
+- Applications in collaborative research and interdisciplinary tasks.
 
 <div align="right">
-    <b><a href="#Contents">👉 back to top</a></b>
+    <b><a href="#contents">👉 back to top</a></b>
 </div>
 
 ## 3. Dataset
 
-> Self-Collected
-
-
-> Aminer
+- **Self-Collected**: Guidelines for creating and curating custom datasets.
+- **Aminer**: Overview of Aminer datasets for academic network analysis.
 
 <div align="right">
-    <b><a href="#Contents">👉 back to top</a></b>
+    <b><a href="#contents">👉 back to top</a></b>
 </div>
 
 ## 4. Evaluation
 
-> Task-Oriented
-
-
-> General Metrics
+- **Task-Oriented**: Evaluate models on specific research tasks (e.g., summarization, QA).
+- **General Metrics**: Assess LLMs using metrics like BLEU, ROUGE, and F1-score.
 
 <div align="right">
-    <b><a href="#Contents">👉 back to top</a></b>
+    <b><a href="#contents">👉 back to top</a></b>
 </div>
 
 ## 5. Platforms
 
-> Personalized Recommendation
+### 5.1 Personalized Recommendation
+- Tools for recommending personalized research materials.
 
+### 5.2 PaperChat
+- Interactive chat systems for exploring academic papers.
 
-> PaperChat
+### 5.3 Writing Assistant
+- Platforms that assist in writing academic content.
 
-
-> Writing Assistant
-
-
-> ScholarGPT
+### 5.4 ScholarGPT
+- AI-powered tools for scholarly information retrieval.
 
 <div align="right">
-    <b><a href="#Contents">👉 back to top</a></b>
+    <b><a href="#contents">👉 back to top</a></b>
 </div>
 
 ## 6. Workshops and Tutorials
 
-> Scholarly Document Processing
+### Scholarly Document Processing
+- Tutorials on processing and analyzing scholarly documents.
 
-
-> SDU@AAAI
+### SDU@AAAI
+- Workshops focusing on scholarly document understanding.
 
 <div align="right">
-    <b><a href="#Contents">👉 back to top</a></b>
+    <b><a href="#contents">👉 back to top</a></b>
 </div>
 
 ---
@@ -134,7 +149,3 @@ In this repo, we aim to provide a comprehensive overview of the latest awesome w
 We welcome contributions from the community! If you know of any useful tools, techniques, or resources related to LLMs as research assistants, feel free to submit a pull request, open an issue, or email (yongcao2018@gmail.com) to add links.
 
 ---
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
