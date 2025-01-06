@@ -1,3 +1,8 @@
+<p align="left">
+    <a href="README_zh.md">中文</a>&nbsp ｜ &nbspEnglish&nbsp
+</p>
+<br><br>
+
 # 📚 Awesome LLMs in Research Assistant
 
 ![](./img/logo.png)
@@ -8,10 +13,7 @@ Any contributions and discussions are welcome!
 
 ![Awesome](https://img.shields.io/badge/Awesome-LLMs%20in%20Research%20Assistant-blue) 
 
-## 🌐 Language | 语言
-
-- [English Version](README.md)
-- [中文版本](README_zh.md)
+---
 
 ## Contents
 
