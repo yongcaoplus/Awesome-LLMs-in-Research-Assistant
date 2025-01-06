@@ -1,7 +1,6 @@
 <p align="left">
     中文</a>&nbsp ｜ &nbsp<a href="README.md">English</a>&nbsp 
 </p>
-<br><br>
 
 # 📚 Awesome LLMs in Research Assistant
 
