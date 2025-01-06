@@ -2,7 +2,9 @@
 
 ![](./img/logo.png)
 
-In this repo, we aim to provide a comprehensive overview of the latest awesome works that leverage LLMs as research assistants. We also include platforms, tutorials, and workshops to help you get started with your relevant projects.
+With the powerful capabilities of LLMs in understanding and processing scientific documents, their application as research assistants has become increasingly promising. In this repo, we aim to provide **a comprehensive overview of the latest awesome works that leverage LLMs as research assistants**. We also include platforms, tutorials, and workshops to help you get started with your relevant projects.
+
+Any contributions and discussions are welcome! 
 
 ![Awesome](https://img.shields.io/badge/Awesome-LLMs%20in%20Research%20Assistant-blue) 
 
