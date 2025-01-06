@@ -8,6 +8,10 @@ Any contributions and discussions are welcome!
 
 ![Awesome](https://img.shields.io/badge/Awesome-LLMs%20in%20Research%20Assistant-blue) 
 
+## 🌐 Language | 语言
+
+- [English Version](README.md)
+- [中文版本](README_zh.md)
 
 ## Contents
 
@@ -31,7 +35,7 @@ Any contributions and discussions are welcome!
    - [Personalized Recommendation](#51-personalized-recommendation)  
    - [PaperChat](#52-paperchat)    
    - [Writing Assistant](#53-writing-assistant)   
-   - [ScholarGPT](#54-scholargpt)
+   - [Integrated](#54-Integrated)
 6. [Workshops and Tutorials](#6-workshops-and-tutorials)  
 
 ---
@@ -125,7 +129,7 @@ Any contributions and discussions are welcome!
 ### 5.3 Writing Assistant
 - Platforms that assist in writing academic content.
 
-### 5.4 ScholarGPT
+### 5.4 Integrated
 - AI-powered tools for scholarly information retrieval.
 
 <div align="right">
