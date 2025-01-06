@@ -58,7 +58,7 @@ Any contributions and discussions are welcome!
 
 ### 1.4 Peer-Review
 
-* **What Can Natural Language Processing Do for Peer Review?**, 05.2024, *ACL 2024*, [[Paper]](https://arxiv.org/abs/2405.06563)
+* **What Can Natural Language Processing Do for Peer Review?**, 05.2024, [[Paper]](https://arxiv.org/abs/2405.06563)
 
 ### 1.5 Literature Review and Summarization
 
