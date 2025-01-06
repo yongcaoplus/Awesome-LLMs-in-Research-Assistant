@@ -10,132 +10,118 @@ In this repo, we aim to provide a comprehensive overview of the latest awesome w
 
 ## Contents
 
-- [📄 Research Topics](#-research-topics)
-    - [Literature Review and Summarization](#literature-review-and-summarization)   
-    - [Question Answering](#question-answering)   
-    - [Data Analysis and Visualization](#data-analysis-and-visualization)  
-    - [Writing Assistance](#writing-assistance)   
-    - [Workflow Automation](#workflow-automation) 
-    - [Peer-Review](#peer-review)
-    - [Representation Learning](#representation-learning)
-
-- [⚙️ Techniques](#️-techniques)
-    - [Prompt Engineering](#prompt-engineering)   
-    - [Fine-Tuning](#fine-tuning)   
-    - [Zero-Shot and Few-Shot Learning](#zero-shot-and-few-shot-learning)  
-    - [Single Agent](#single-agent)   
-    - [Multi-Agent](#multi-agent)  
-
-- [📊 Dataset](#-dataset)  
-    - [Self-Collected](#self-collected)   
-    - [Aminer](#aminer)   
-
-- [📈 Evaluation](#-evaluation)  
-    - [Task-Oriented](#task-oriented)  
-    - [General Metrics](#general-metrics)  
-
-- [🔧 Platforms](#-platforms)  
-    - [Personalized Recommendation](#personalized-recommendation)  
-    - [PaperChat](#paperchat)    
-    - [Writing Assistant](#writing-assistant)   
-    - [ScholarGPT](#scholargpt)
-
-- [🎓 Workshops and Tutorials](#-workshops-and-tutorials)  
-    - [Scholarly Document Processing](#scidoca)
-    - [SDU@AAAI](#sdu)
+* [1. Tasks](#-research-topics)
+    * [1.1 Literature Review and Summarization](#literature-review-and-summarization)   
+    * [1.2 Scientific Question Answering](#question-answering)   
+    * [1.3 Data Analysis and Visualization](#data-analysis-and-visualization)  
+    * [1.4 Writing Assistance](#writing-assistance)   
+    * [1.5 Workflow Automation](#workflow-automation) 
+    * [1.6 Peer-Review](#peer-review)
+    * [1.7 Representation Learning](#representation-learning)
+* [2. Techniques](#️-techniques)
+    * [2.1 Prompt Engineering](#prompt-engineering)   
+    * [2.2 Fine-Tuning](#fine-tuning)   
+    * [2.3 Zero-Shot and Few-Shot Learning](#zero-shot-and-few-shot-learning)  
+    * [2.4 Single Agent](#single-agent)   
+    * [2.5 Multi-Agent](#multi-agent)  
+* [3. Dataset](#-dataset)  
+* [4. Evaluation](#-evaluation)  
+* [5. Platforms](#-platforms)  
+    * [5.1 Personalized Recommendation](#personalized-recommendation)  
+    * [5.2 PaperChat](#paperchat)    
+    * [5.3 Writing Assistant](#writing-assistant)   
+    * [5.4 Integrated](#scholargpt)
+* [6. Workshops and Tutorials](#workshops-and-tutorials)  
 ---
 
-## 📄 Research Topics
+## 1. Tasks
 
-### Literature Review and Summarization
+> Literature Review and Summarization
 
-### Question Answering
+> Question Answering
 
+> Data Analysis and Visualization
 
-### Data Analysis and Visualization
-
-
-### Writing Assistance
+> Writing Assistance
 
 
-### Workflow Automation
+> Workflow Automation
 
 
-### Peer-Review
+> Peer-Review
 
-
-### Representation Learning
+> Representation Learning
 
 <div align="right">
     <b><a href="#Contents">👉 back to top</a></b>
 </div>
 
-## ⚙️ Techniques
+## 2. Techniques
 
-### Prompt Engineering
-
-
-### Fine-Tuning
+> Prompt Engineering
 
 
-
-### Zero-Shot and Few-Shot Learning
-
-
-### Single Agent
+> Fine-Tuning
 
 
-### Multi-Agent
 
-<div align="right">
-    <b><a href="#Contents">👉 back to top</a></b>
-</div>
-
-## 📊 Dataset
-
-### Self-Collected
+> Zero-Shot and Few-Shot Learning
 
 
-### Aminer
+> Single Agent
+
+
+> Multi-Agent
 
 <div align="right">
     <b><a href="#Contents">👉 back to top</a></b>
 </div>
 
-## 📈 Evaluation
+## 3. Dataset
 
-### Task-Oriented
-
-
-### General Metrics
-
-<div align="right">
-    <b><a href="#Contents">👉 back to top</a></b>
-</div>
-
-## 🔧 Platforms
-
-### Personalized Recommendation
+> Self-Collected
 
 
-### PaperChat
-
-
-### Writing Assistant
-
-
-### ScholarGPT
+> Aminer
 
 <div align="right">
     <b><a href="#Contents">👉 back to top</a></b>
 </div>
 
-## 🎓 Workshops and Tutorials
+## 4. Evaluation
 
-### Scholarly Document Processing
+> Task-Oriented
 
 
-### SDU@AAAI
+> General Metrics
+
+<div align="right">
+    <b><a href="#Contents">👉 back to top</a></b>
+</div>
+
+## 5. Platforms
+
+> Personalized Recommendation
+
+
+> PaperChat
+
+
+> Writing Assistant
+
+
+> ScholarGPT
+
+<div align="right">
+    <b><a href="#Contents">👉 back to top</a></b>
+</div>
+
+## 6. Workshops and Tutorials
+
+> Scholarly Document Processing
+
+
+> SDU@AAAI
 
 <div align="right">
     <b><a href="#Contents">👉 back to top</a></b>
@@ -145,7 +131,7 @@ In this repo, we aim to provide a comprehensive overview of the latest awesome w
 
 ## Contributions
 
-We welcome contributions from the community! If you know of any useful tools, techniques, or resources related to LLMs as research assistants, feel free to submit a pull request or open an issue.
+We welcome contributions from the community! If you know of any useful tools, techniques, or resources related to LLMs as research assistants, feel free to submit a pull request, open an issue, or email (yongcao2018@gmail.com) to add links.
 
 ---
 
