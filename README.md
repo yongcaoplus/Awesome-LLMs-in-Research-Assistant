@@ -17,26 +17,27 @@ Any contributions and discussions are welcome!
 ## Contents
 
 1. [Tasks](#1-tasks)
-   - [Literature Review and Summarization](#11-literature-review-and-summarization)   
-   - [Scientific Question Answering](#12-scientific-question-answering)   
-   - [Data Analysis and Visualization](#13-data-analysis-and-visualization)  
-   - [Writing Assistance](#14-writing-assistance)   
-   - [Workflow Automation](#15-workflow-automation) 
-   - [Peer-Review](#16-peer-review)
-   - [Representation Learning](#17-representation-learning)
+   * [Scientific Impact Prediction](#11-scientific-impact-prediction)      
+   * [Scientific Question Answering](#12-scientific-question-answering)
+   * [Data Analysis and Visualization](#13-data-analysis-and-visualization) 
+   * [Peer-Review](#14-peer-review)
+   * [Literature Review and Summarization](#15-literature-review-and-summarization) 
+   * [Writing Assistance](#16-writing-assistance)   
+   * [Workflow Automation](#17-workflow-automation) 
+   * [Representation Learning](#18-representation-learning)
 2. [Techniques](#2-techniques)
-   - [Prompt Engineering](#21-prompt-engineering)   
-   - [Fine-Tuning](#22-fine-tuning)   
-   - [Zero-Shot and Few-Shot Learning](#23-zero-shot-and-few-shot-learning)  
-   - [Single Agent](#24-single-agent)   
-   - [Multi-Agent](#25-multi-agent)  
+   * [Prompt Engineering](#21-prompt-engineering)   
+   * [Fine-Tuning](#22-fine-tuning)   
+   * [Zero-Shot and Few-Shot Learning](#23-zero-shot-and-few-shot-learning)  
+   * [Single Agent](#24-single-agent)   
+   * [Multi-Agent](#25-multi-agent)  
 3. [Dataset](#3-dataset)  
 4. [Evaluation](#4-evaluation)  
 5. [Platforms](#5-platforms)  
-   - [Personalized Recommendation](#51-personalized-recommendation)  
-   - [PaperChat](#52-paperchat)    
-   - [Writing Assistant](#53-writing-assistant)   
-   - [Integrated](#54-Integrated)
+   * [Personalized Recommendation](#51-personalized-recommendation)  
+   * [PaperChat](#52-paperchat)    
+   * [Writing Assistant](#53-writing-assistant)   
+   * [Integrated](#54-Integrated)
 6. [Workshops and Tutorials](#6-workshops-and-tutorials)  
 
 ---
@@ -44,32 +45,28 @@ Any contributions and discussions are welcome!
 ## 1. Tasks
 
 ### 1.1 Literature Review and Summarization
-- Automatically summarize academic papers.
-- Generate concise literature reviews for specific research domains.
+* **From Words to Worth: Newborn Article Impact Prediction with LLM**, 12.2024, *AAAI 2025*, [[Paper]](https://arxiv.org/abs/2408.03934), [[Code]](https://github.com/ssocean/NAIP)
+* **HLM-Cite: Hybrid Language Model Workflow for Text-based Scientific Citation Prediction**, 10.2024, *NeurIPS 2024*, [[Paper]](https://arxiv.org/abs/2410.09112), [[Code]](https://github.com/tsinghua-fib-lab/H-LM) 
 
 ### 1.2 Scientific Question Answering
-- Use LLMs for precise and context-aware question answering.
-- Applications in FAQ generation and academic support.
+* **SciQAG: A Framework for Auto-Generated Science Question Answering Dataset with Fine-grained Evaluation**, 07.2024, [[Paper]](https://arxiv.org/abs/2405.09939)
+
+* **Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering**, 10.2022, *NeurIPS 2022*, [[Paper]](https://arxiv.org/abs/2209.09513), [[Code]](https://github.com/lupantech/ScienceQA), [[Dataset]](https://scienceqa.github.io/#dataset), [[Website]](https://scienceqa.github.io/#home/)
 
 ### 1.3 Data Analysis and Visualization
-- Leverage LLMs to interpret and visualize complex datasets.
-- Automate the creation of charts and graphs for presentations.
+
 
 ### 1.4 Writing Assistance
-- Help researchers write papers, proposals, and technical documents.
-- Suggestions for grammar, style, and structure improvement.
+
 
 ### 1.5 Workflow Automation
-- Automate repetitive research tasks such as data preprocessing.
-- Enable seamless integration of multiple research tools.
+
 
 ### 1.6 Peer-Review
-- Provide insights for peer-reviewing academic papers.
-- Suggest improvements and detect errors in submissions.
+* **What Can Natural Language Processing Do for Peer Review?**, 05.2024, *ACL 2024*, [[Paper]](https://arxiv.org/abs/2405.06563)
 
 ### 1.7 Representation Learning
-- Facilitate learning of data representations for downstream tasks.
-- Applications in embedding-based search and clustering.
+
 
 <div align="right">
     <b><a href="#contents">👉 back to top</a></b>
@@ -78,24 +75,19 @@ Any contributions and discussions are welcome!
 ## 2. Techniques
 
 ### 2.1 Prompt Engineering
-- Design effective prompts to improve LLM performance.
-- Case studies of prompt optimization strategies.
+
 
 ### 2.2 Fine-Tuning
-- Fine-tune models for domain-specific tasks.
-- Examples include scientific writing and mathematical problem solving.
+
 
 ### 2.3 Zero-Shot and Few-Shot Learning
-- Explore applications where minimal labeled data is required.
-- Case studies in cross-lingual and low-resource scenarios.
+
 
 ### 2.4 Single Agent
-- Utilize a single LLM agent for specific research tasks.
-- Examples include single-task optimization and focused outputs.
+
 
 ### 2.5 Multi-Agent
-- Coordinate multiple LLM agents to solve complex problems.
-- Applications in collaborative research and interdisciplinary tasks.
+
 
 <div align="right">
     <b><a href="#contents">👉 back to top</a></b>
@@ -103,8 +95,6 @@ Any contributions and discussions are welcome!
 
 ## 3. Dataset
 
-- **Self-Collected**: Guidelines for creating and curating custom datasets.
-- **Aminer**: Overview of Aminer datasets for academic network analysis.
 
 <div align="right">
     <b><a href="#contents">👉 back to top</a></b>
@@ -121,17 +111,23 @@ Any contributions and discussions are welcome!
 
 ## 5. Platforms
 
+* [Galactica](https://galactica.org/explore/): A platform for scientific discovery.
+* [FutureHouse: Automating scientific discovery](https://www.futurehouse.org/): For Paper QA, topic search, and more.
+
 ### 5.1 Personalized Recommendation
-- Tools for recommending personalized research materials.
+
 
 ### 5.2 PaperChat
-- Interactive chat systems for exploring academic papers.
+
 
 ### 5.3 Writing Assistant
-- Platforms that assist in writing academic content.
+
+
+### 5.4 Search Engine
+
 
 ### 5.4 Integrated
-- AI-powered tools for scholarly information retrieval.
+
 
 <div align="right">
     <b><a href="#contents">👉 back to top</a></b>
@@ -140,10 +136,10 @@ Any contributions and discussions are welcome!
 ## 6. Workshops and Tutorials
 
 ### Scholarly Document Processing
-- Tutorials on processing and analyzing scholarly documents.
+
 
 ### SDU@AAAI
-- Workshops focusing on scholarly document understanding.
+
 
 <div align="right">
     <b><a href="#contents">👉 back to top</a></b>
