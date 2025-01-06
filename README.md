@@ -44,7 +44,7 @@ Any contributions and discussions are welcome!
 
 ## 1. Tasks
 
-### 1.1 Literature Review and Summarization
+### 1.1 Scientific Impact Prediction
 * **From Words to Worth: Newborn Article Impact Prediction with LLM**, 12.2024, *AAAI 2025*, [[Paper]](https://arxiv.org/abs/2408.03934), [[Code]](https://github.com/ssocean/NAIP)
 * **HLM-Cite: Hybrid Language Model Workflow for Text-based Scientific Citation Prediction**, 10.2024, *NeurIPS 2024*, [[Paper]](https://arxiv.org/abs/2410.09112), [[Code]](https://github.com/tsinghua-fib-lab/H-LM) 
 
@@ -56,16 +56,17 @@ Any contributions and discussions are welcome!
 ### 1.3 Data Analysis and Visualization
 
 
-### 1.4 Writing Assistance
+### 1.4 Peer-Review
 
-
-### 1.5 Workflow Automation
-
-
-### 1.6 Peer-Review
 * **What Can Natural Language Processing Do for Peer Review?**, 05.2024, *ACL 2024*, [[Paper]](https://arxiv.org/abs/2405.06563)
 
-### 1.7 Representation Learning
+### 1.5 Literature Review and Summarization
+
+### 1.6 Writing Assistance
+
+### 1.7 Workflow Automation
+
+### 1.8 Representation Learning
 
 
 <div align="right">
