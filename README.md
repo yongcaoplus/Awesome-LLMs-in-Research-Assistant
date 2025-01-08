@@ -16,7 +16,7 @@ Any contributions and discussions are welcome!
 
 ## Contents
 
-1. [Survey](#1-survey)
+1. [Survey and Position Paper](#1-survey-and-position-paper)
 2. [Tasks](#2-tasks)
    * [Scientific Impact Prediction](#21-scientific-impact-prediction)      
    * [Scientific Question Answering](#22-scientific-question-answering)
@@ -43,7 +43,7 @@ Any contributions and discussions are welcome!
 
 ---
 
-## 1. Survey
+## 1. Survey and Position Paper
 
 * **A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery**, 11.2024, *EMNLP main 2024*. [[Paper]](https://aclanthology.org/2024.emnlp-main.498/), [[Code]](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models).
 
