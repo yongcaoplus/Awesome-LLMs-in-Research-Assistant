@@ -20,7 +20,7 @@ Any contributions and discussions are welcome!
 2. [Tasks](#2-tasks)
    * [Scientific Impact Prediction](#21-scientific-impact-prediction)      
    * [Scientific Question Answering](#22-scientific-question-answering)
-   * [Data Analysis and Visualization](#23-data-analysis-and-visualization) 
+   * [Paper Analysis and Visualization](#23-paper-analysis-and-visualization) 
    * [Research Code](#24-research-code)
    * [Peer-Review](#25-peer-review)
    * [Literature Review and Summarization](#26-literature-review-and-summarization) 
@@ -88,7 +88,7 @@ Any contributions and discussions are welcome!
 
 * **Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering**, 10.2022, *NeurIPS 2022*, [[Paper]](https://arxiv.org/abs/2209.09513), [[Code]](https://github.com/lupantech/ScienceQA), [[Dataset]](https://scienceqa.github.io/#dataset), [[Website]](https://scienceqa.github.io/#home/)  
 
-### 2.3 Data Analysis and Visualization  
+### 2.3 Paper Analysis and Visualization  
 
 * **SciDoc2Diagrammer-MAF: Towards Generation of Scientific Diagrams from Documents Guided by Multi-Aspect Feedback Refinement**, 11.2024, *EMNLP Findings 2024*, [[Paper]](https://aclanthology.org/2024.findings-emnlp.780), [[Code]](https://github.com/Ishani-Mondal/SciDoc2DiagramGeneration).  
 

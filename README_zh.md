@@ -20,7 +20,7 @@
 2. [任务](#2-任务)
    * [科学影响力预测](#21-科学影响力预测)      
    * [科学问题回答](#22-科学问题回答)
-   * [数据分析与可视化](#23-数据分析与可视化) 
+   * [论文分析与可视化](#23-论文分析与可视化) 
    * [论文代码相关](#24-论文代码相关)
    * [同行评审](#25-同行评审)
    * [文献综述与总结](#26-文献综述与总结) 
@@ -92,7 +92,7 @@
 
 * **Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering**, 10.2022, *NeurIPS 2022*, [[Paper]](https://arxiv.org/abs/2209.09513), [[Code]](https://github.com/lupantech/ScienceQA), [[Dataset]](https://scienceqa.github.io/#dataset), [[Website]](https://scienceqa.github.io/#home/)  
 
-### 2.3 数据分析与可视化
+### 2.3 论文分析与可视化
 
 * **SciDoc2Diagrammer-MAF: Towards Generation of Scientific Diagrams from Documents Guided by Multi-Aspect Feedback Refinement**, 11.2024, *EMNLP Findings 2024*, [[Paper]](https://aclanthology.org/2024.findings-emnlp.780), [[Code]](https://github.com/Ishani-Mondal/SciDoc2DiagramGeneration).  
 
